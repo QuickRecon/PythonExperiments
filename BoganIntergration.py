@@ -1,7 +1,7 @@
 f = lambda x: x ** 2
 g = lambda x: (1 / 3) * x ** 3
 limits = (0, 5)
-resolution = (20, 20)
+resolution = (100, 100)
 
 
 def integrate(func, lim, res):
